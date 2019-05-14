@@ -1,1 +1,1 @@
-# ECG Classification
+# ECG Classification [Major Project]
